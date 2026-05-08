@@ -141,6 +141,13 @@ The notebook contains:
 Datasets are downloaded automatically during execution using PyTorch dataset loaders.
 
 ---
+# Dataset Links
+
+## MNIST
+http://yann.lecun.com/exdb/mnist/
+
+## CIFAR-10
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 # Experimental Configuration
 
